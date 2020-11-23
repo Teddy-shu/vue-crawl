@@ -1,0 +1,1294 @@
+<!DOCTYPE html>
+<html>
+  <head><meta name="keyword" content="日向坂46,ヒナタザカ46,ひなたざか46,hinatazaka46,潮 紗理菜,柿崎 芽実,影山 優佳,加藤 史帆,齊藤 京子,佐々木 久美,佐々木 美玲,高瀬 愛奈,高本 彩花,東村 芽依,金村 美玖,河田 陽菜,小坂 菜緒,富田 鈴花,丹生 明里,濱岸 ひより,松田 好花,宮田 愛萌,渡邉 美穂,上村 ひなの" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MW3NFVC');</script>
+<!-- End Google Tag Manager -->
+
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP|Overpass" rel="stylesheet">
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<link href="https://cdn.hinatazaka46.com/files/14/hinata/product/css/sph20200828.css" rel="stylesheet" />
+<script src="https://cdn.hinatazaka46.com/files/14/hinata/product/js/sph_product20200828.js"></script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.hinatazaka46.com/files/14/hinata/img/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.hinatazaka46.com/files/14/hinata/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.hinatazaka46.com/files/14/hinata/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://cdn.hinatazaka46.com/files/14/hinata/img/favicons/site.webmanifest">
+<link rel="mask-icon" href="https://cdn.hinatazaka46.com/files/14/hinata/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-134157394-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+<meta property="og:title" content="1st Album 『ひなたざか』 9.23 Wed. Release!!" />
+<meta property="og:description" content="日向坂46公式サイト" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.hinatazaka46.com/" />
+<meta property="og:image" content="https://cdn.hinatazaka46.com/images/14/f83/e7263bcddc5eee48b45337ace26dd.jpg" />
+<meta property="og:site_name" content="日向坂46公式サイト" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="1st Album 『ひなたざか』 9.23 Wed. Release!!"/>
+<meta name="twitter:description" content="日向坂46公式サイト"/>
+<meta name="twitter:image:src" content="https://cdn.hinatazaka46.com/images/14/f83/e7263bcddc5eee48b45337ace26dd.jpg"/>
+
+
+<script>
+          var access_date = "20201123";
+          var shakehands_json = "/s/official/api/list/shakehands_list";
+</script>
+
+
+
+
+<title>日向坂46公式サイト</title>
+</head>
+<body class="pages pages_sph pages_sph_10001 pages_sph_10001_index"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW3NFVC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="l-wrap p-wrap__bg">
+<div class="l-header__schedule-top">
+        <section class="l-schedule-top">
+          <div class="p-container p-container--schedule-top">
+            <div class="p-contents p-contents--schedule-top is-hide">
+              <h2 class="c-section-title c-section__title--schedule-top">
+                TODAY'S SCHEDULE
+              </h2>
+              <ul class="p-schedule-top__list">
+
+<li class="p-schedule-top__item">
+                  <a href="/s/official/media/list?ima=0000&dy=20201123">
+                    <div class="c-schedule-top__category c-schedule-top__category--head category__media">
+                      テレビ
+                    </div>
+                    <p class="c-schedule-top__text">
+                      日本テレビ「バゲット」
+                    </p>
+                  </a>
+                </li><li class="p-schedule-top__item">
+                  <a href="/s/official/media/list?ima=0000&dy=20201123">
+                    <div class="c-schedule-top__category c-schedule-top__category--head category__media">
+                      テレビ
+                    </div>
+                    <p class="c-schedule-top__text">
+                      日本テレビ「スッキリ」
+                    </p>
+                  </a>
+                </li><li class="p-schedule-top__item">
+                  <a href="/s/official/media/list?ima=0000&dy=20201123">
+                    <div class="c-schedule-top__category c-schedule-top__category--head category__media">
+                      テレビ
+                    </div>
+                    <p class="c-schedule-top__text">
+                      日本テレビ「世界まる見え！テレビ特捜部」
+                    </p>
+                  </a>
+                </li>
+
+              </ul>
+              <div class="p-button__plus js-button__schedule">
+                <div class="c-button__bar"></div>
+                <div class="c-button__bar"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+<div class="l-header">
+<div class="p-header-wrap">
+
+        <header class="p-header">
+
+          <h1 class="c-header__logo">
+            <a href="/s/official/?ima=0000"><img src="https://cdn.hinatazaka46.com/files/14/hinata/img/logo_side.svg"></a>
+          </h1><div class="c-bottun-menu c-bottun-menu--pc">
+            <span class="bar bar1"></span><span class="bar bar2"></span><span class="bar bar3"></span>
+          </div>
+          <nav class="p-menu p-menu--pc">
+            <ul class="p-menu__list">
+              <li class="p-menu__item">
+                <a href="/s/official/news/list?ima=0000&dy=202011">ニュース</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/media/list?ima=0000&dy=202011">スケジュール</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/search/artist?ima=0000">メンバー</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/diary/member?ima=0000">ブログ</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/artist/00/discography?ima=0000">ディスコグラフィー</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/page/video?ima=0000">動画</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/diary/aimashou/list?ima=0000">TV</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/diary/event/list?ima=0000">握手会</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="/s/official/page/biography?ima=0000">日向坂46とは？</a>
+              </li>
+              <li class="p-menu__item">
+                <a href="http://store.emtg.jp/hinatazaka46/" target="_blank">グッズ</a>
+              </li>
+
+            </ul>
+          </nav>
+          <div id="js-header-mypage"></div>
+
+        </header>
+</div>
+</div>
+      <div class="p-container p-container--top__slider">
+
+        <div class="js-top-slider">
+          <div class="slider-next">
+            <i class="nextArrow"></i>
+          </div>
+          <div class="slider-prev">
+            <i class="prevArrow"></i>
+          </div>
+          <ul class="p-top-slider__list"><li class="p-top__slide">
+<a href="/s/official/news/detail/E00125?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/f3f/396fa16a7cebda0ff439e1dcb05c7-01.png)">
+    <img alt="2020.12.24 Thu.「ひなくり2020」配信決定!!" src="https://cdn.hinatazaka46.com/images/14/f3f/396fa16a7cebda0ff439e1dcb05c7.png">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        2020.12.24 Thu.「ひなくり2020」配信決定!!
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/page/1st_album_sp?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/80a/e8afb0aff9c19dd874d5702f66bec-01.jpg)">
+    <img alt="1stアルバム『ひなたざか』特設サイト公開!!" src="https://cdn.hinatazaka46.com/images/14/80a/e8afb0aff9c19dd874d5702f66bec.jpg">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        1stアルバム『ひなたざか』特設サイト公開!!
+      </div>
+      
+      <div class="c-top__slide-text">
+        2020年9月23日(水)RELEASE!!
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/news/detail/O00074?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/499/5c6333b4706d74d8638b77cf083e4-01.jpg)">
+    <img alt="ローソン×日向坂46キャンペーン開始!!" src="https://cdn.hinatazaka46.com/images/14/499/5c6333b4706d74d8638b77cf083e4.jpg">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        ローソン×日向坂46キャンペーン開始!!
+      </div>
+      
+      <div class="c-top__slide-text">
+        最新曲を使用したCMも放送中!!
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/page/roadtotokyodome?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/e28/fa4e01ba99c5f9c3eaa2aa4bcc633-01.jpg)">
+    <img alt="ROAD TO TOKYO DOME<br>カウントダウンSITEオープン！" src="https://cdn.hinatazaka46.com/images/14/e28/fa4e01ba99c5f9c3eaa2aa4bcc633.jpg">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        ROAD TO TOKYO DOME<br>カウントダウンSITEオープン！
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="https://hinatazaka46-documentary.com/" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/2e8/727a27df599ceeddb2738eecdc41b-01.jpg)">
+    <img alt="日向坂46 初のドキュメンタリー映画 <br>タイトル決定！" src="https://cdn.hinatazaka46.com/images/14/2e8/727a27df599ceeddb2738eecdc41b.png">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        日向坂46 初のドキュメンタリー映画 <br>タイトル決定！
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/news/detail/R00019?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/54c/8f2dbb844d8af0adc627a87672a90-01.jpg)">
+    <img alt="日向坂46 1stグループ写真集『立ち漕ぎ』" src="https://cdn.hinatazaka46.com/images/14/54c/8f2dbb844d8af0adc627a87672a90.png">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        日向坂46 1stグループ写真集『立ち漕ぎ』
+      </div>
+      
+      <div class="c-top__slide-text">
+        絶賛発売中！
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/diary/aimashou/list?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/3e7/20e3471e996178b917424419b91b0-01.jpg)">
+    <img alt="「日向坂で会いましょう」" src="https://cdn.hinatazaka46.com/images/14/3e7/20e3471e996178b917424419b91b0.jpg">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        「日向坂で会いましょう」
+      </div>
+      
+      <div class="c-top__slide-text">
+        テレビ東京 毎週日曜日 深夜 25:05〜25:35放送）<br />
+MC：オードリー
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="http://store.emtg.jp/hinatazaka46/" target="_blank">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/28e/0c82a59b3b5eb288260aa89671bd8-01.png)">
+    <img alt="日向坂46 公式グッズストア" src="https://cdn.hinatazaka46.com/images/14/28e/0c82a59b3b5eb288260aa89671bd8.png">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        日向坂46 公式グッズストア
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li><li class="p-top__slide">
+<a href="/s/official/news/detail/O00001?ima=0000" target="">
+  <div class="c-top__slide-thumb" style="background-image:url(https://cdn.hinatazaka46.com/images/14/dec/7ef88895bd74892cb26a3b0785e77-01.jpg)">
+    <img alt="日向坂46ファンクラブ" src="https://cdn.hinatazaka46.com/images/14/dec/7ef88895bd74892cb26a3b0785e77.jpg">
+  </div>
+  <div class="p-top__slide-panel">
+    <div class="p-top__slide-panel-body">
+      <div class="c-top__slide-title">
+        日向坂46ファンクラブ
+      </div>
+      
+      <div class="c-top__slide-text">
+        ファンクラブの詳細＆会員ご登録はこちら！
+      </div>
+      
+      <div class="c-top__slide-arrow">
+        <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_slider_arrow.svg">
+      </div>
+    </div>
+  </div>
+</a>
+</li></ul>
+        </div>
+
+         
+      </div>      <main class="l-main">
+
+                <div class="l-loader-top">
+          <div class="p-loader">
+            <div class="p-loader__contents">
+              <div class="c-loader__logo">
+                <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/logo_loader.svg">
+              </div>
+            </div>
+            <div class="p-loader__progress-bar">
+              <div class="c-loader__progress-bar" id="js-progress-bar"></div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="p-section01">
+
+
+
+          <section class="p-section">
+            <div class="p-container p-container--topics">
+              <div class="p-contents p-contents--topics is-hide">
+                <div class="p-contents__border">
+                  <div class="p-contents__body--topicks">
+                    <h2 class="c-section-title__grad c-section-title__grad--topics">
+                      TOPICS
+                    </h2>
+                    <div class="p-box p-box--topics">
+                      <ul class="p-topics__list">
+
+<li class="p-topics__item category_live">
+                          <a href="https://www.hinatazaka46.com/s/official/news/detail/E00125?ima=0000">
+                            <p class="c-topics__image">
+                              <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_live.svg"><span class="c-topics__catename">ライブ</span>
+                            </p>
+                            <div class="p-topics__body">
+                              <p class="c-topics__title">
+                                日向坂46「ひなくり2020」東京ドーム公演延期／無観客配信ライブ開催のお知らせ
+                              </p>
+                              <p class="c-topics__text">
+                                2020.12.24 Thu.「ひなくり2020」配信決定!!
+                              </p>
+                            </div>
+                          </a>
+                        </li>
+
+
+
+
+                      
+                      </ul>
+
+                    </div>
+                    <div class="p-button__topics js-button__topics">
+                      <div class="c-button__bar_topics"></div>
+                      <div class="c-button__bar_topics"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="p-section">
+            <div class="p-container p-container--news">
+              <div class="p-contents p-contents--news">
+                <h2 class="c-section-title__grad c-section-title__grad--news">
+                  NEWS
+                </h2>
+                <div class="c-news-tab">
+                  <div class="c-news-tab-bar active js-news-tab-bar">
+                    OFFICIAL
+                  </div>
+                  <div class="c-news-tab-bar js-news-tab-bar" id="js-news-tab-bar--fc">
+                    FANCLUB
+                    <span class="icon_new"></span>
+                  </div>
+                </div>
+                <div class="p-news__list_wrap">
+                  <div class="p-news__list-group active c-news-tab-list js-news-tab-list">
+                    <ul class="p-news__list">
+                      <li class="p-news__item">
+  <a href="/s/official/news/detail/S00204?ima=0000"><time class="c-news__date">2020.11.22</time>
+    <div class="c-news__category category_shakehands">握手会</div>
+    <p class="c-news__text">
+      forTUNE meetsアプリのご使用方法
+    </p>
+  </a>
+</li><li class="p-news__item">
+  <a href="/s/official/news/detail/S00200?ima=0000"><time class="c-news__date">2020.11.22</time>
+    <div class="c-news__category category_shakehands">握手会</div>
+    <p class="c-news__text">
+      【イベント運営におけるご案内】11月23日(月・祝)開催「オンラインミート＆グリート（個別トーク会）」
+    </p>
+  </a>
+</li><li class="p-news__item">
+  <a href="/s/official/news/detail/M00632?ima=0000"><time class="c-news__date">2020.11.22</time>
+    <div class="c-news__category category_media">メディア</div>
+    <p class="c-news__text">
+      11月25日(水)19:00～日本テレビ「ベストアーティスト2020」に日向坂46の出演が決定！
+    </p>
+  </a>
+</li><li class="p-news__item">
+  <a href="/s/official/news/detail/S00203?ima=0000"><time class="c-news__date">2020.11.21</time>
+    <div class="c-news__category category_shakehands">握手会</div>
+    <p class="c-news__text">
+      11月23日(月・祝)開催「オンラインミート＆グリート（個別トーク会）」宮田愛萌に関しまして
+    </p>
+  </a>
+</li><li class="p-news__item">
+  <a href="/s/official/news/detail/M00631?ima=0000"><time class="c-news__date">2020.11.21</time>
+    <div class="c-news__category category_media">メディア</div>
+    <p class="c-news__text">
+      宮田愛萌に関しまして
+    </p>
+  </a>
+</li>
+                    </ul>
+                    <div class="p-button">
+                      <a class="c-button-grad" href="/s/official/news/list?ima=0000&dy=202011">MORE</a>
+                    </div>
+                  </div>
+                  <div class="p-news__list-group js-news-tab-list" id="js-news-tab-list--fc">  
+                    <ul class="p-news__list">
+                    <li class="p-news__item" data-updatetime="2020112315:00">
+  <a href="/s/official/group/detail/F00326?ima=0000"><time class="c-news__date">2020.11.23</time>
+    <div class="c-news__category category_fanclubonly">ファンクラブ</div>
+    <p class="c-news__text">
+      「ひなたぼっこ日記」更新！
+    </p>
+  </a>
+</li><li class="p-news__item" data-updatetime="2020112215:00">
+  <a href="/s/official/group/detail/F00325?ima=0000"><time class="c-news__date">2020.11.22</time>
+    <div class="c-news__category category_fanclubonly">ファンクラブ</div>
+    <p class="c-news__text">
+      「ひなたぼっこ日記」更新！
+    </p>
+  </a>
+</li><li class="p-news__item" data-updatetime="2020112015:00">
+  <a href="/s/official/group/detail/F00324?ima=0000"><time class="c-news__date">2020.11.20</time>
+    <div class="c-news__category category_fanclubonly">ファンクラブ</div>
+    <p class="c-news__text">
+      「ひなたぼっこ日記」更新！
+    </p>
+  </a>
+</li><li class="p-news__item" data-updatetime="2020111915:00">
+  <a href="/s/official/group/detail/F00323?ima=0000"><time class="c-news__date">2020.11.19</time>
+    <div class="c-news__category category_fanclubonly">ファンクラブ</div>
+    <p class="c-news__text">
+      「ひなたぼっこ日記」更新！
+    </p>
+  </a>
+</li><li class="p-news__item" data-updatetime="2020111420:30">
+  <a href="/s/official/group/detail/F00322?ima=0000"><time class="c-news__date">2020.11.14</time>
+    <div class="c-news__category category_fanclubonly">ファンクラブ</div>
+    <p class="c-news__text">
+      『ひなたの部活動』にて「生徒会からのお知らせ#2」を公開！
+    </p>
+  </a>
+</li>
+                    </ul>
+                    <div class="p-button">
+                      <a class="c-button-grad" href="/s/official/group/list?ima=0000&dy=202011">MORE</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+
+
+        <div class="p-section02">
+          <section class="p-section p-section--blog">
+            <div class="p-container">
+              <div class="p-contents p-contents--blog">
+                <h2 class="c-section__title c-section__title--blog">
+                  <a>OFFICIAL BLOG<span>公式ブログ</span></a>
+                </h2>
+                <div class="p-article p-article--blog js-blog-slider">
+                  <div class="slider-next">
+                    <i class="nextArrow"></i>
+                  </div>
+                  <ul class="p-blog__list">
+                  <li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36650?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(https://cdn.hinatazaka46.com/images/14/8e5/4a6e5e11a30580d68bb0d1622095e/480_480_102400.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(https://cdn.hinatazaka46.com/images/14/8e5/4a6e5e11a30580d68bb0d1622095e/160_160_102400.jpg);"></div>
+                          <p class="c-blog__title">
+                            🐻(・ω・)
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/a4c/9a2f004352d749f91b01a0dd2f3b9/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              加藤 史帆
+                            </div>
+                            <time class="c-blog__date">2020.11.23 21:28</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36648?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobeKJslT.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobeKJslT.jpg);"></div>
+                          <p class="c-blog__title">
+                            くまくま
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/e02/4a0e1dd5db0dd6caf5aa59918aa46/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              上村 ひなの
+                            </div>
+                            <time class="c-blog__date">2020.11.23 20:09</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36647?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob8Lj2D9.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob8Lj2D9.jpg);"></div>
+                          <p class="c-blog__title">
+                            ミネストローネの滝
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/35d/b1ec540b4a8a202457ae8a2c09f40/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              河田 陽菜
+                            </div>
+                            <time class="c-blog__date">2020.11.23 20:07</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36646?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(https://cdn.hinatazaka46.com/images/14/3ff/b54f9e1d1fb785197c5c9fc82ad1d/480_480_102400.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(https://cdn.hinatazaka46.com/images/14/3ff/b54f9e1d1fb785197c5c9fc82ad1d/160_160_102400.jpg);"></div>
+                          <p class="c-blog__title">
+                            愛
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/a0f/4b9e49b90c090869c7d5e24f8f1f4/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              金村 美玖
+                            </div>
+                            <time class="c-blog__date">2020.11.23 20:04</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36643?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobWbJEZW.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobWbJEZW.jpg);"></div>
+                          <p class="c-blog__title">
+                            しゅっ。
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/b96/cd42cf36f09b2094cc1be7d1fb8a5/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              影山 優佳
+                            </div>
+                            <time class="c-blog__date">2020.11.23 12:18</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36642?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobXu7ZNL.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobXu7ZNL.jpg);"></div>
+                          <p class="c-blog__title">
+                            嬉しいお知らせ📢✨と、、
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/791/b478784ab5c9e591395966ef52ba1/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              潮 紗理菜
+                            </div>
+                            <time class="c-blog__date">2020.11.23 00:05</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36640?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob6g3dn4.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob6g3dn4.jpg);"></div>
+                          <p class="c-blog__title">
+                            🐰
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/64e/b75c020521e09a2c33de45895919d/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              東村 芽依
+                            </div>
+                            <time class="c-blog__date">2020.11.23 00:01</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36639?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob5IuyMD.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mob5IuyMD.jpg);"></div>
+                          <p class="c-blog__title">
+                            おしゃべり
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/040/8fbe49c3c2f5ae1a2e827bfc687ec/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              高本 彩花
+                            </div>
+                            <time class="c-blog__date">2020.11.22 23:59</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36638?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobI0C2yN.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobI0C2yN.jpg);"></div>
+                          <p class="c-blog__title">
+                            アザーカット祭り
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/42d/b400773bdda4983024da774c366e6/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              齊藤 京子
+                            </div>
+                            <time class="c-blog__date">2020.11.22 23:51</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36636?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(https://cdn.hinatazaka46.com/images/14/65c/b6717c6e5920d8fc822d5d4f42125/480_480_102400.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(https://cdn.hinatazaka46.com/images/14/65c/b6717c6e5920d8fc822d5d4f42125/160_160_102400.jpg);"></div>
+                          <p class="c-blog__title">
+                            そら
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/d28/dca4e1c1160fa3f37363243895262/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              髙橋 未来虹
+                            </div>
+                            <time class="c-blog__date">2020.11.22 16:31</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36635?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobpvdOQ9.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(/files/14/diary/official/member/moblog/202011/mobpvdOQ9.jpg);"></div>
+                          <p class="c-blog__title">
+                            ❤️💗
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/42d/b400773bdda4983024da774c366e6/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              齊藤 京子
+                            </div>
+                            <time class="c-blog__date">2020.11.22 13:48</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="p-blog__item">
+                      <a href="/s/official/diary/detail/36634?ima=0000&cd=member">
+                        <div class="c-blog__thumb">
+                          <div class="c-blog__image" style="background-image:url(https://cdn.hinatazaka46.com/images/14/6f2/42235615118fd2cef08294a3f2556/480_480_102400.jpg);"></div>
+                          <div class="c-blog__image--bg" style="background-image:url(https://cdn.hinatazaka46.com/images/14/6f2/42235615118fd2cef08294a3f2556/160_160_102400.jpg);"></div>
+                          <p class="c-blog__title">
+                            おかえりって言わせてね😊
+                          </p>
+                        </div>
+                        <div class="p-blog__head">
+                          <div class="c-blog__icon" style="background-image:url(https://cdn.hinatazaka46.com/images/14/c6e/0292d2fd37a1005402c08c0dc04d5/160_160_102400.jpg);"></div>
+                          <div class="p-blog__info">
+                            <div class="c-blog__name">
+                              佐々木 美玲
+                            </div>
+                            <time class="c-blog__date">2020.11.22 13:48</time>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="slider-prev">
+                    <i class="prevArrow"></i>
+                  </div>
+                  <div class="p-button">
+                    <a class="c-button-grad" href="/s/official/diary/member?ima=0000">MORE</a>
+                  </div>
+                </div>
+                <div class="bg_polygon_wrap">
+                  <svg class="bg_polygon" space="preserve" style="enable-background:new 0 0 841.9 229.2;" viewbox="0 0 841.9 229.2" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><polygon class="bg_polygon_color" points="841.9,229.2 0,229.2 221.3,0 841.9,0 "></polygon></svg>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+
+
+        <div class="p-section03">
+          <section class="p-section p-section--video">
+            <div class="p-container p-container--video">
+              <div class="p-section-title p-section-title__video">
+                <h2 class="c-section__title c-section__title--video">
+                  VIDEO
+                </h2>
+                <a href="https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA" target="_blank" class="c-button-video--youtube"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"></path></svg>
+                  <div class="c-button-video__text">
+                    <span>youtube</span><b>公式チャンネル</b>
+                  </div>
+                </a>
+              </div>
+  <div class="p-video__item">
+              <a href="/s/official/contents/heb1yJtreJg?ima=0000">
+                <div class="c-video__image">
+                  <img src="https://cdn.hinatazaka46.com/images/14/465/5c6bb2f852ed5cece845a52c4a216/400_400_102400.jpg">
+                </div>
+                <div class="p-video__body">
+                  <p class="c-video__title">
+                    特典映像『日向坂46デビューカウントダウンライブ！！in 横浜アリーナ～日向坂46 FIRST LIVE～』ダイジェスト
+                  </p>
+                </div>
+              </a>
+            </div><div class="p-video__item">
+              <a href="/s/official/contents/tT5uVyfo7EA?ima=0000">
+                <div class="c-video__image">
+                  <img src="https://cdn.hinatazaka46.com/images/14/0dc/d37719ecc9f042ddf6dad77ba6c88/400_400_102400.jpg">
+                </div>
+                <div class="p-video__body">
+                  <p class="c-video__title">
+                    特典映像『日向坂46デビューカウントダウンライブ！！in 横浜アリーナ～けやき坂46LAST LIVE～』ダイジェスト
+                  </p>
+                </div>
+              </a>
+            </div><div class="p-video__item">
+              <a href="/s/official/contents/cUHAY6WRhwo?ima=0000">
+                <div class="c-video__image">
+                  <img src="https://cdn.hinatazaka46.com/images/14/718/b3c405506db294191dcc3b58af49c/400_400_102400.png">
+                </div>
+                <div class="p-video__body">
+                  <p class="c-video__title">
+                    日向坂46 「ひなリハ」～アザトカワイイ～
+                  </p>
+                </div>
+              </a>
+            </div>
+
+              <div class="p-button p-button--top_video">
+                <a class="c-button-grad c-button-grad--shadow" href="/s/official/page/video?ima=0000">MORE</a>
+              </div>
+
+            </div>
+          </section>
+        </div>
+        <div class="module-modal js-video">
+          <div class="bg"></div>
+          <div class="content">
+            <div class="close"></div>
+            <div class="playerwrp"></div>
+          </div>
+        </div>
+
+
+
+<!--p-section04-->
+        <div class="p-section04">
+          <section class="p-section p-section--disco">
+            <div class="p-container p-container--disco">
+              <div class="p-contents p-contents--disco">
+                <h2 class="c-section__title c-section__title--disco">
+                  <a href="">NEW RELEASE</a>
+                </h2>
+<ul class="p-disco__list"><li class="p-disco__item">
+                    <a href="/s/official/discography/SRCL-11580?ima=0000">
+                      <div class="c-disco__image">
+                        <img src="https://cdn.hinatazaka46.com/images/14/63b/c7979c698c5f2794c0f1346eb08e6/500_320_102400.jpg">
+                      </div>
+                      <div class="c-disco__image--bg">
+                        <img src="https://cdn.hinatazaka46.com/images/14/63b/c7979c698c5f2794c0f1346eb08e6/500_320_102400.jpg">
+                      </div>
+                      <p class="c-disco__subtitle">
+                        待望の1stアルバムリリース！
+                      </p>
+                      <p class="c-disco__title">
+                        ひなたざか[1CD+1BD/初回仕様限定盤Type-A]
+                      </p>
+                      <p class="c-disco__catch__date">
+                        2020.09.23 On Sale!!
+                      </p>
+                    </a>
+                  </li><li class="p-disco__item">
+                    <a href="/s/official/discography/SRCL-11582?ima=0000">
+                      <div class="c-disco__image">
+                        <img src="https://cdn.hinatazaka46.com/images/14/cbf/7450e5fc5a8e2df59d8e0a8e5d7ed/500_320_102400.jpg">
+                      </div>
+                      <div class="c-disco__image--bg">
+                        <img src="https://cdn.hinatazaka46.com/images/14/cbf/7450e5fc5a8e2df59d8e0a8e5d7ed/500_320_102400.jpg">
+                      </div>
+                      <p class="c-disco__subtitle">
+                        待望の1stアルバムリリース！
+                      </p>
+                      <p class="c-disco__title">
+                        ひなたざか[1CD+1BD/初回仕様限定盤Type-B]
+                      </p>
+                      <p class="c-disco__catch__date">
+                        2020.09.23 On Sale!!
+                      </p>
+                    </a>
+                  </li><li class="p-disco__item">
+                    <a href="/s/official/discography/SRCL-11584?ima=0000">
+                      <div class="c-disco__image">
+                        <img src="https://cdn.hinatazaka46.com/images/14/fc0/f9c10813c71370ac1bca514aa4ca4/500_320_102400.jpg">
+                      </div>
+                      <div class="c-disco__image--bg">
+                        <img src="https://cdn.hinatazaka46.com/images/14/fc0/f9c10813c71370ac1bca514aa4ca4/500_320_102400.jpg">
+                      </div>
+                      <p class="c-disco__subtitle">
+                        待望の1stアルバムリリース！
+                      </p>
+                      <p class="c-disco__title">
+                        ひなたざか[通常盤]
+                      </p>
+                      <p class="c-disco__catch__date">
+                        2020.09.23 On Sale!!
+                      </p>
+                    </a>
+                  </li></ul>
+                <div class="p-button">
+                  <a class="c-button-grad" href="/s/official/artist/00/discography?ima=0000">MORE</a>
+                </div>
+                <div class="bg_polygon_wrap">
+                  <svg class="bg_polygon" space="preserve" style="enable-background:new 0 0 840 230;" viewbox="0 0 840 230" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><polygon class="bg_polygon_color" points="318.6,330 0,0 318.6,0 840,0 840,330"></polygon></svg>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+
+        <div class="p-section05">
+          <section class="p-section p-section--shakehands">
+            <div class="p-container p-container--shakehands">
+
+              <a class="p-card p-card--shakehands c-shakehands__link" href="#" id="js-event-link">
+                <div class="c-shakehands__thumb">
+                  <img id="js-event-image_src" src="https://cdn.hinatazaka46.com/files/14/hinata/img/dummy_shakehands.png">
+                </div>
+                <div class="p-shakehands__body">
+                  <div class="p-shakehands__head">
+                    <div class="c-shakehands__subtitle">
+                      日向坂46<span class="js-event-catename"></span>
+                    </div>
+                    <div class="c-shakehands__title">
+                      個別握手会振替イベント
+                    </div>
+                    <div class="c-shakehands__catch">
+                      <span class="js-event-catename"></span><span>開催!!</span>
+                    </div>
+                    <div class="c-shakehands__border">
+                      <span></span><span></span><span></span><span></span><span></span><span></span>
+                    </div>
+                  </div>
+                </div>
+                <div class="p-shakehands__box">
+                  <div class="p-shakehands__next">
+                    <div class="c-shakehands__next">
+                      NEXT
+                    </div>
+                    <div class="c-shakehands__date">
+                      <div class="c-shakehands__date-year" id="js-event-year"></div>
+                      <div class="c-shakehands__date-month" id="js-event-month"></div>
+                      <div class="c-shakehands__date-day" id="js-event-day"></div>
+                    </div>
+                  </div>
+                  <div class="p-shakehands__info">
+                    <div class="c-shakehands__category js-event-catename js-event-category"></div>
+                    <div class="c-shakehands__text" id="js-event-text"></div>
+                  </div>
+                </div>
+              </a>
+
+            </div>
+          </section>
+        </div>
+
+
+
+
+
+        <div class="p-section06" id="p-section--fanclub">
+
+          
+          
+        </div>
+
+        <div class="p-section07">
+          <section class="p-section p-section--twitter">
+            <div class="p-container">
+              <div class="p-contents p-contents--twitter">
+                <h2 class="c-section__title c-section__title--twitter">
+                  <span>TWITTER</span>
+                </h2>
+                <div class="c-twitter-timeline"><a class="twitter-timeline" href="https://twitter.com/hinatazaka46?ref_src=twsrc%5Etfw" height="228">Tweets by hinatazaka46</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+
+        <div class="bg_polygon_top_wrap pc">
+          <div class="bg_polygon_top_wrap_in">
+            <img src="https://cdn.hinatazaka46.com/files/14/hinata/img/special/1st_album/bg_triangle_top_right.png">
+          </div>
+        </div>
+
+        
+
+     </main>
+
+<style>
+.c-shakehands__link{
+  display: block;
+}
+.c-shakehands__link:hover{
+  opacity: 0.85;
+}
+</style>
+
+     <div class="js-menu-sp__container p-menu-sp__container">
+        <div class="c-bottun-menu-sp js-bottun-menu-sp">
+          <div class="c-bottun-menu-sp__border">
+            <span class="bar bar1"></span><span class="bar bar2"></span><span class="bar bar3"></span>
+          </div>
+        </div>
+        <nav class="p-menu-sp">
+          <div class="p-menu-sp__title">
+            <b>OFFICIAL</b>
+          </div>
+          <ul class="p-menu-sp__list">
+            <li class="p-menu-sp__item">
+              <a href="/s/official/news/list?ima=0000&dy=202011">ニュース</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/media/list?ima=0000&dy=202011">スケジュール</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/search/artist?ima=0000">メンバー</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/diary/member?ima=0000">ブログ</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/artist/00/discography?ima=0000">ディスコグラフィー</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/page/video?ima=0000">動画</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/diary/aimashou/list?ima=0000">TV</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/diary/event/list?ima=0000">握手会</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/page/biography?ima=0000">日向坂46とは？</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="http://store.emtg.jp/hinatazaka46/" target="_blank">グッズ</a>
+            </li>
+
+          </ul>
+          <div class="p-menu-sp__title">
+            <b>FAN CLUB</b>
+          </div>
+          <ul class="p-menu-sp__list">
+            <li class="p-menu-sp__item">
+              <a href="/s/official/group/list?ima=0000&dy=202011">FCニュース</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/page/wallpaper?ima=0000">メンバー待受</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/page/history?ima=0000">日向坂46ヒストリー</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/diary/manager/list?ima=0000">ひなたぼっこ日記</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/ticket/list?ima=0000&ct=ticket">チケット</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/item/list?ima=0000">会員限定グッズ</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/diary/club?ima=0000">ひなたの部活動</a>
+            </li>
+
+            <li class="p-menu-sp__item">
+              <a href="/s/official/mypage?ima=0000">マイページ</a>
+            </li>
+            <li class="p-menu-sp__item">
+              <a href="/s/official/page/archive?ima=0000">アーカイブ</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+
+
+<footer class="l-footer">
+        <div class="l-footer-container">
+          <section class="p-section">
+            <div class="p-container--banner">
+              <div class="js-banner-slider">
+                <div class="slider-next">
+                  <i class="nextArrow"><svg space="preserve" style="enable-background:new 0 0 300 300;" version="1.1" viewbox="0 0 300 300" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><polygon points="82,300 68.1,286.1 204.2,150 68.1,13.9 82,0 231.9,150 "></polygon></svg></i>
+                </div>
+                <div class="slider-prev">
+                  <i class="nextArrow"><svg space="preserve" style="enable-background:new 0 0 300 300;" version="1.1" viewbox="0 0 300 300" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><polygon points="218,300 231.9,286.1 95.8,150 231.9,13.9 218,0 68.1,150 "></polygon></svg></i>
+                </div>
+                <ul class="p-banner__list"><li class="p-banner__item">
+                    <a href="https://www.tbs.co.jp/tbs-ch/item/v2776/" target=""><img alt="セルフ Documentary of 日向坂46" src="https://cdn.hinatazaka46.com/images/14/4c6/99d35252692b051c985dfdb285261.jpg"></a>
+                  </li><li class="p-banner__item">
+                    <a href="https://www.keyakizaka46.com/s/k46o/page/magireco?ima=0000" target="_blank"><img alt="マギアレコード" src="https://cdn.hinatazaka46.com/images/14/465/4b5f71e7f4d4f0d796dbeab7159ac.jpg"></a>
+                  </li><li class="p-banner__item">
+                    <a href="https://www.keyakizaka46.com/s/k46o/page/portrait_hiragana_001?ima=0000" target="_blank"><img alt="ひらがな写真館" src="https://cdn.hinatazaka46.com/images/14/ed9/236d2c08dbda29708de4b1f081bf3.jpg"></a>
+                  </li><li class="p-banner__item">
+                    <a href="https://www.keyakizaka46.com/s/k46o/page/hiragana_addmember?ima=0000" target="_blank"><img alt="けやき坂46二期生 特設ページ" src="https://cdn.hinatazaka46.com/images/14/c57/5453a58d5c8963c907c1b2e9c6c88.jpg"></a>
+                  </li></ul>
+              </div>
+            </div>
+          </section><section class="p-container--links">
+            <ul class="p-links__list">
+              <li class="p-links__item">
+                <a href="/s/offinq/form/inquiry?ima=0000"><img class="c-links__image" src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_logo_radius.svg">
+                  <div class="c-links__title">
+                    <span>メンバーへの</span><span>出演依頼</span>
+                  </div>
+                </a>
+              </li>
+              <li class="p-links__item">
+                <a href="/s/h46app/page_common/app_guide?ima=0000" target="_blank"><img class="c-links__image" src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_logo_radius.svg">
+                  <div class="c-links__title">
+                    メッセージアプリ
+                  </div>
+                </a>
+              </li>
+              <li class="p-links__item">
+                <a href="/s/official/page/archive?ima=0000" target="_blank"><img class="c-links__image" src="https://cdn.hinatazaka46.com/files/14/hinata/img/icon_logo_radius.svg">
+                  <div class="c-links__title">
+                    アーカイブ
+                  </div>
+                </a>
+              </li>
+            </ul>
+          </section><section class="p-container--sublinks">
+            <ul class="p-sublinks__list">
+              <li class="p-sublinks__item">
+                <a href="/s/official/page/producer?ima=0000">PRODUCER</a>
+              </li>
+              <li class="p-sublinks__item">
+                <a href="/s/official/page/faq?ima=0000">FAQ</a>
+              </li>
+              <li class="p-sublinks__item">
+                <a href="/s/offinq/form/inquiry?ima=0000">お問い合わせ</a>
+              </li>
+            </ul>
+          </section><section class="p-container--jasrac">
+            <div class="p-contents--jasrac">
+              <div class="c-jasrac__image">
+                <img alt="" src="https://cdn.hinatazaka46.com/files/14/hinata/img/jasrac.jpg">
+              </div>
+              <p class="c-jasrac__text">
+                JASRAC許諾第6709411244Y45037号<br>JASRAC許諾第9018170002Y31018号
+              </p>
+            </div>
+          </section>
+        </div>
+      </footer>
+</div>
+
+<script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.4"></script>
+
+<style>
+img.emoji {
+    display: inline-block !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    transform: translate(0,0) !important;
+}
+</style>
+
+
+
+<script>
+twemoji.parse(document.body);
+
+$(document).ready(function(){
+  if($("#js-header_content_common").length > 0){
+    $.ajax({
+        type : 'post',
+        dataType : 'JSON',
+        url : "/s/official/api/page/message",
+        data : { cd: ["header_mypage_btn","header_content_common"] },
+        success : function(data) {
+          var header_mypage_btn_Obj = $("#js-header-mypage");
+          header_mypage_btn_Obj .html(data[0].body);
+          var header_content_common_Obj = $("#js-header_content_common");
+          header_content_common_Obj .html(data[1].body);
+          //$(".m-fanclub-menu__inner").fadeIn();
+        },
+        error : function(data) {
+            // Error
+            console.log("Error");
+        }
+    });
+  }
+
+  if($("#js-section-fanclub-top").length > 0){
+    $.ajax({
+        type : 'post',
+        dataType : 'JSON',
+        url : "/s/official/api/page/message",
+        data : { cd: ["section_fanclub_top"] },
+        success : function(data) {
+          var section_fanclub_top_Obj = $("#js-section-fanclub-top");
+          section_fanclub_top_Obj .html(data[0].body);
+        },
+        error : function(data) {
+            // Error
+            console.log("Error");
+        }
+    });
+  }
+});
+
+</script>
+
+<script> 
+ $(function(){
+    /*$("body").on("contextmenu",function(){
+      return false;
+    });
+    $("body").on("MouseDown",function(){
+      return false;
+    });
+    $("body").on("SelectStart",function(){
+      return false;
+    });*/
+
+$("img").not('.copy_permission').attr("onmousedown","return false");
+$("img").not('.copy_permission').attr("onselectstart", "return false");
+$("img").not('.copy_permission').attr("oncontextmenu","return false");
+  });
+/*
+document.onkeydown = function onKeyDown(event)   {
+
+  if (event.ctrlKey == true && event.keyCode == 83) {//Ctrl+S
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 69) {//Ctrl+E
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 85) {//Ctrl+U
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 73 ) {//Ctrl+I
+    return false;
+  }
+  if (event.keyCode == 18 && event.keyCode == 73 ) {//Alt+I
+    return false;
+  }
+  if (event.keyCode == 123 ) {//F12
+    return false;
+  }
+}*/
+document.querySelectorAll("img").forEach(el => el.addEventListener("touchforcechange", e => {
+  if (!e.touches || !e.touches[0]) return
+
+  if (e.touches[0].force > 0.15) {
+    e.preventDefault()
+  }
+}))
+</script>
+
+<style>
+img{
+  -webkit-touch-callout:none;
+  -ms-user-select: none;
+  -webkit-user-select:none;
+  user-select:none;
+  -webkit-touch-callout:none;
+  -moz-touch-callout:none;
+  touch-callout:none;
+  -webkit-user-drag:none;
+  -khtml-user-drag:none;
+  user-drag:none;
+}
+</style>
+</body>
+</html>

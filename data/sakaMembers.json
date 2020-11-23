@@ -1,0 +1,1142 @@
+{
+	"nogizaka46": {
+		"members": [
+			{
+				"name": "秋元真夏",
+				"enName": "Akimoto Manatsu",
+				"avatar": "nogizaka46/akimotomanatsu.png",
+				"portfolio": {
+					"birthday": "1993年8月20日",
+					"constellation": "しし座",
+					"height": "154cm",
+					"placeOfBirth": "埼玉縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "生田絵梨花",
+				"enName": "Ikuta Erika",
+				"avatar": "nogizaka46/ikutaerika.png",
+				"portfolio": {
+					"birthday": "1997年1月22日",
+					"constellation": "みずがめ座",
+					"height": "160cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "伊藤純奈",
+				"enName": "Ito Junna",
+				"avatar": "nogizaka46/itojunna.png",
+				"portfolio": {
+					"birthday": "1998年11月30日",
+					"constellation": "いて座",
+					"height": "166cm",
+					"placeOfBirth": "神奈川縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "伊藤理々杏",
+				"enName": "Ito Riria",
+				"avatar": "nogizaka46/itoriria.png",
+				"portfolio": {
+					"birthday": "2002年10月8日",
+					"constellation": "てんびん座",
+					"height": "154cm",
+					"placeOfBirth": "沖繩縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "岩本蓮加",
+				"enName": "Iwamoto Renka",
+				"avatar": "nogizaka46/iwamotorenka.png",
+				"portfolio": {
+					"birthday": "2004年2月2日",
+					"constellation": "みずがめ座",
+					"height": "157cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "梅澤美波",
+				"enName": "Umezawa Minami",
+				"avatar": "nogizaka46/umezawaminami.png",
+				"portfolio": {
+					"birthday": "1999年1月6日",
+					"constellation": "やぎ座",
+					"height": "170cm",
+					"placeOfBirth": "神奈川縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "大園桃子",
+				"enName": "Ozono Momoko",
+				"avatar": "nogizaka46/ozonomomoko.png",
+				"portfolio": {
+					"birthday": "1999年9月13日",
+					"constellation": "おとめ座",
+					"height": "156cm",
+					"placeOfBirth": "鹿兒島縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "北野日奈子",
+				"enName": "Kitano Hinako",
+				"avatar": "nogizaka46/kitanohinako.png",
+				"portfolio": {
+					"birthday": "1996年7月17日",
+					"constellation": "かに座",
+					"height": "158cm",
+					"placeOfBirth": "北海道",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "久保史緒里",
+				"enName": "Kubo Shiori",
+				"avatar": "nogizaka46/kuboshiori.png",
+				"portfolio": {
+					"birthday": "2001年7月14日",
+					"constellation": "かに座",
+					"height": "159cm",
+					"placeOfBirth": "宮城縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "齋藤飛鳥",
+				"enName": "Saito Asuka",
+				"avatar": "nogizaka46/saitoasuka.png",
+				"portfolio": {
+					"birthday": "1998年8月10日",
+					"constellation": "しし座",
+					"height": "158cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "阪口珠美",
+				"enName": "Sakaguchi Tamami",
+				"avatar": "nogizaka46/sakaguchitamami.png",
+				"portfolio": {
+					"birthday": "2001年11月10日",
+					"constellation": "さそり座",
+					"height": "161cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "佐藤楓",
+				"enName": "Satou Kaede",
+				"avatar": "nogizaka46/satoukaede.png",
+				"portfolio": {
+					"birthday": "1998年3月23日",
+					"constellation": "おひつじ座",
+					"height": "161cm",
+					"placeOfBirth": "愛知縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "白石麻衣",
+				"enName": "Shiraishi Mai",
+				"avatar": "nogizaka46/shiraishimai.png",
+				"portfolio": {
+					"birthday": "1992年8月20日",
+					"constellation": "しし座",
+					"height": "162cm",
+					"placeOfBirth": "群馬縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "新内眞衣",
+				"enName": "Shinuchi Mai",
+				"avatar": "nogizaka46/shinuchimai.png",
+				"portfolio": {
+					"birthday": "1992年1月22日",
+					"constellation": "みずがめ座",
+					"height": "165cm",
+					"placeOfBirth": "埼玉縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "鈴木絢音",
+				"enName": "Suzuki Ayane",
+				"avatar": "nogizaka46/suzukiayane.png",
+				"portfolio": {
+					"birthday": "1999年3月5日",
+					"constellation": "うお座",
+					"height": "160cm",
+					"placeOfBirth": "秋田縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "高山一実",
+				"enName": "Takayama Kazumi",
+				"avatar": "nogizaka46/takayamakazumi.png",
+				"portfolio": {
+					"birthday": "1994年2月8日",
+					"constellation": "みずがめ座",
+					"height": "162cm",
+					"placeOfBirth": "千葉縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "寺田蘭世",
+				"enName": "Terada Ranze",
+				"avatar": "nogizaka46/teradaranze.png",
+				"portfolio": {
+					"birthday": "1998年9月23日",
+					"constellation": "てんびん座",
+					"height": "155cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "不明"
+				}
+			},
+			{
+				"name": "中田花奈",
+				"enName": "Nakada Kana",
+				"avatar": "nogizaka46/nakadakana.png",
+				"portfolio": {
+					"birthday": "1994年8月6日",
+					"constellation": "しし座",
+					"height": "158cm",
+					"placeOfBirth": "埼玉縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "中村麗乃",
+				"enName": "Nakamura Reno",
+				"avatar": "nogizaka46/nakamurareno.png",
+				"portfolio": {
+					"birthday": "2001年9月27日",
+					"constellation": "てんびん座",
+					"height": "167cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "不明"
+				}
+			},
+			{
+				"name": "樋口日奈",
+				"enName": "Higuchi Hina",
+				"avatar": "nogizaka46/higuchihina.png",
+				"portfolio": {
+					"birthday": "1998年1月31日",
+					"constellation": "みずがめ座",
+					"height": "159cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "星野みなみ",
+				"enName": "Hoshino Minami",
+				"avatar": "nogizaka46/hoshinominami.png",
+				"portfolio": {
+					"birthday": "1998年2月6日",
+					"constellation": "みずがめ座",
+					"height": "155cm",
+					"placeOfBirth": "千葉縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "堀未央奈",
+				"enName": "Hori Miona",
+				"avatar": "nogizaka46/horimiona.png",
+				"portfolio": {
+					"birthday": "1996年10月15日",
+					"constellation": "てんびん座",
+					"height": "160cm",
+					"placeOfBirth": "岐阜縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "松村沙友理",
+				"enName": "Matsumura Sayuri",
+				"avatar": "nogizaka46/matsumurasayuri.png",
+				"portfolio": {
+					"birthday": "1992年8月27日",
+					"constellation": "おとめ座",
+					"height": "164cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "向井葉月",
+				"enName": "Mukai Hazuki",
+				"avatar": "nogizaka46/mukaihazuki.png",
+				"portfolio": {
+					"birthday": "1999年8月23日",
+					"constellation": "おとめ座",
+					"height": "152cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "山崎怜奈",
+				"enName": "Yamazaki Rena",
+				"avatar": "nogizaka46/yamazakirena.png",
+				"portfolio": {
+					"birthday": "1997年5月21日",
+					"constellation": "ふたご座",
+					"height": "164cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "山下美月",
+				"enName": "Yamashita Mizuki",
+				"avatar": "nogizaka46/yamashitamizuki.png",
+				"portfolio": {
+					"birthday": "1999年7月26日",
+					"constellation": "しし座",
+					"height": "159cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "吉田綾乃クリスティー",
+				"enName": "Yoshida Ayano Christie",
+				"avatar": "nogizaka46/yoshidaayanochristie.png",
+				"portfolio": {
+					"birthday": "1995年9月6日",
+					"constellation": "おとめ座",
+					"height": "161cm",
+					"placeOfBirth": "大分縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "与田祐希",
+				"enName": "Yoda Yuki",
+				"avatar": "nogizaka46/yodayuki.png",
+				"portfolio": {
+					"birthday": "2000年5月5日",
+					"constellation": "おうし座",
+					"height": "152cm",
+					"placeOfBirth": "福岡縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "渡辺みり愛",
+				"enName": "Watanabe Miria",
+				"avatar": "nogizaka46/watanabemiria.png",
+				"portfolio": {
+					"birthday": "1999年11月1日",
+					"constellation": "さそり座",
+					"height": "153cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "和田まあや",
+				"enName": "Wada Maya",
+				"avatar": "nogizaka46/wadamaya.png",
+				"portfolio": {
+					"birthday": "1998年4月23日",
+					"constellation": "おうし座",
+					"height": "160cm",
+					"placeOfBirth": "廣島縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "遠藤さくら",
+				"enName": "Endo Sakura",
+				"avatar": "nogizaka46/endosakura.png",
+				"portfolio": {
+					"birthday": "2001年10月3日",
+					"constellation": "てんびん座",
+					"height": "160cm",
+					"placeOfBirth": "愛知縣",
+					"bloodType": "不明"
+				}
+			},
+			{
+				"name": "賀喜遥香",
+				"enName": "Kaki Haruka",
+				"avatar": "nogizaka46/kakiharuka.png",
+				"portfolio": {
+					"birthday": "2001年8月8日",
+					"constellation": "しし座",
+					"height": "166cm",
+					"placeOfBirth": "栃木縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "掛橋沙耶香",
+				"enName": "Kakehashi Sayaka",
+				"avatar": "nogizaka46/kakehashisayaka.png",
+				"portfolio": {
+					"birthday": "2002年11月20日",
+					"constellation": "さそり座",
+					"height": "156cm",
+					"placeOfBirth": "岡山縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "金川紗耶",
+				"enName": "Kanagawa Saya",
+				"avatar": "nogizaka46/kanagawasaya.png",
+				"portfolio": {
+					"birthday": "2001年10月31日",
+					"constellation": "さそり座",
+					"height": "164cm",
+					"placeOfBirth": "北海道",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "北川悠理",
+				"enName": "Kitagawa Yuri",
+				"avatar": "nogizaka46/kitagawayuri.png",
+				"portfolio": {
+					"birthday": "2001年8月8日",
+					"constellation": "しし座",
+					"height": "163cm",
+					"placeOfBirth": "美國加利福尼亞州",
+					"bloodType": "不明"
+				}
+			},
+			{
+				"name": "黒見明香",
+				"enName": "Kuromi Haruka",
+				"avatar": "nogizaka46/kuromiharuka.png",
+				"portfolio": {
+					"birthday": "2004年1月19日",
+					"constellation": "やぎ座",
+					"height": "162cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "佐藤璃果",
+				"enName": "Sato Rika",
+				"avatar": "nogizaka46/satorika.png",
+				"portfolio": {
+					"birthday": "2001年8月9日",
+					"constellation": "しし座",
+					"height": "158cm",
+					"placeOfBirth": "岩手縣",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "柴田柚菜",
+				"enName": "Shibata Yuna",
+				"avatar": "nogizaka46/shibatayuna.png",
+				"portfolio": {
+					"birthday": "2003年3月3日",
+					"constellation": "うお座",
+					"height": "160cm",
+					"placeOfBirth": "千葉縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "清宮レイ",
+				"enName": "Seimiya Rei",
+				"avatar": "nogizaka46/seimiyarei.png",
+				"portfolio": {
+					"birthday": "2003年8月1日",
+					"constellation": "しし座",
+					"height": "162cm",
+					"placeOfBirth": "埼玉縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "田村真佑",
+				"enName": "Tamura Mayu",
+				"avatar": "nogizaka46/tamuramayu.png",
+				"portfolio": {
+					"birthday": "1999年1月12日",
+					"constellation": "やぎ座",
+					"height": "158cm",
+					"placeOfBirth": "埼玉縣",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "筒井あやめ",
+				"enName": "Tsutsui Ayame",
+				"avatar": "nogizaka46/tsutsuiayame.png",
+				"portfolio": {
+					"birthday": "2004年6月8日",
+					"constellation": "ふたご座",
+					"height": "160cm",
+					"placeOfBirth": "愛知縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "早川聖来",
+				"enName": "Hayakawa Seira",
+				"avatar": "nogizaka46/hayakawaseira.png",
+				"portfolio": {
+					"birthday": "2000年8月24日",
+					"constellation": "おとめ座",
+					"height": "164cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "林瑠奈",
+				"enName": "Hayashi Runa",
+				"avatar": "nogizaka46/hayashiruna.png",
+				"portfolio": {
+					"birthday": "2003年10月2日",
+					"constellation": "てんびん座",
+					"height": "163cm",
+					"placeOfBirth": "神奈川縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "松尾美佑",
+				"enName": "Matsuo Miyu",
+				"avatar": "nogizaka46/matsuomiyu.png",
+				"portfolio": {
+					"birthday": "2004年1月3日",
+					"constellation": "やぎ座",
+					"height": "165cm",
+					"placeOfBirth": "千葉縣",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "矢久保美緒",
+				"enName": "Yakubo Mio",
+				"avatar": "nogizaka46/yakubomio.png",
+				"portfolio": {
+					"birthday": "2002年8月14日",
+					"constellation": "しし座",
+					"height": "152cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "弓木奈於",
+				"enName": "Yumiki Nao",
+				"avatar": "nogizaka46/yumikinao.png",
+				"portfolio": {
+					"birthday": "1999年2月3日",
+					"constellation": "みずがめ座",
+					"height": "165cm",
+					"placeOfBirth": "京都府",
+					"bloodType": "A型"
+				}
+			}
+		]
+	},
+	"hinatazaka46": {
+		"members": [
+			{
+				"name": "潮紗理菜",
+				"enName": "Ushio Sarina",
+				"avatar": "hinatazaka46/ushiosarina.png",
+				"portfolio": {
+					"birthday": "1997年12月26日",
+					"constellation": "やぎ座",
+					"height": "157cm",
+					"placeOfBirth": "神奈川県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "影山優佳",
+				"enName": "Kageyama Yuka",
+				"avatar": "hinatazaka46/kageyamayuka.png",
+				"portfolio": {
+					"birthday": "2001年5月8日",
+					"constellation": "おうし座",
+					"height": "155.5cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "加藤史帆",
+				"enName": "Kato Shiho",
+				"avatar": "hinatazaka46/katoshiho.png",
+				"portfolio": {
+					"birthday": "1998年2月2日",
+					"constellation": "みずがめ座",
+					"height": "160cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "齊藤京子",
+				"enName": "Saito Kyoko",
+				"avatar": "hinatazaka46/saitokyoko.png",
+				"portfolio": {
+					"birthday": "1997年9月5日",
+					"constellation": "おとめ座",
+					"height": "155cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "佐々木久美",
+				"enName": "Sasaki Kumi",
+				"avatar": "hinatazaka46/sasakikumi.png",
+				"portfolio": {
+					"birthday": "1996年1月22日",
+					"constellation": "みずがめ座",
+					"height": "167.5cm",
+					"placeOfBirth": "千葉県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "佐々木美玲",
+				"enName": "Sasaki Mirei",
+				"avatar": "hinatazaka46/sasakimirei.png",
+				"portfolio": {
+					"birthday": "1999年12月17日",
+					"constellation": "いて座",
+					"height": "165cm",
+					"placeOfBirth": "兵庫県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "高瀬愛奈",
+				"enName": "Takase Mana",
+				"avatar": "hinatazaka46/takasemana.png",
+				"portfolio": {
+					"birthday": "1998年9月20日",
+					"constellation": "おとめ座",
+					"height": "157cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "高本彩花",
+				"enName": "Takamoto Ayaka",
+				"avatar": "hinatazaka46/takamotoayaka.png",
+				"portfolio": {
+					"birthday": "1998年11月2日",
+					"constellation": "さそり座",
+					"height": "162.5cm",
+					"placeOfBirth": "神奈川県",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "東村芽依",
+				"enName": "Higashimura Mei",
+				"avatar": "hinatazaka46/higashimuramei.png",
+				"portfolio": {
+					"birthday": "1998年8月23日",
+					"constellation": "おとめ座",
+					"height": "154cm",
+					"placeOfBirth": "奈良県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "金村美玖",
+				"enName": "Kanemura Miku",
+				"avatar": "hinatazaka46/kanemuramiku.png",
+				"portfolio": {
+					"birthday": "2002年9月10日",
+					"constellation": "おとめ座",
+					"height": "163cm",
+					"placeOfBirth": "埼玉県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "河田陽菜",
+				"enName": "Kawata Hina",
+				"avatar": "hinatazaka46/kawatahina.png",
+				"portfolio": {
+					"birthday": "2001年7月23日",
+					"constellation": "しし座",
+					"height": "154cm",
+					"placeOfBirth": "山口県",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "小坂菜緒",
+				"enName": "Kosaka Nao",
+				"avatar": "hinatazaka46/kosakanao.png",
+				"portfolio": {
+					"birthday": "2002年9月7日",
+					"constellation": "おとめ座",
+					"height": "161.5cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "富田鈴花",
+				"enName": "Tomita Suzuka",
+				"avatar": "hinatazaka46/tomitasuzuka.png",
+				"portfolio": {
+					"birthday": "2001年1月18日",
+					"constellation": "やぎ座",
+					"height": "165cm",
+					"placeOfBirth": "神奈川県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "丹生明里",
+				"enName": "Nibu Akari",
+				"avatar": "hinatazaka46/nibuakari.png",
+				"portfolio": {
+					"birthday": "2001年2月15日",
+					"constellation": "みずがめ座",
+					"height": "156.5cm",
+					"placeOfBirth": "埼玉県",
+					"bloodType": "AB型"
+				}
+			},
+			{
+				"name": "濱岸ひより",
+				"enName": "Hamagishi Hiyori",
+				"avatar": "hinatazaka46/hamagishihiyori.png",
+				"portfolio": {
+					"birthday": "2002年9月28日",
+					"constellation": "てんびん座",
+					"height": "167cm",
+					"placeOfBirth": "福岡県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "松田好花",
+				"enName": "Matsuda Konoka",
+				"avatar": "hinatazaka46/matsudakonoka.png",
+				"portfolio": {
+					"birthday": "1999年4月27日",
+					"constellation": "おうし座",
+					"height": "157.2cm",
+					"placeOfBirth": "京都府",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "宮田愛萌",
+				"enName": "Miyata Manamo",
+				"avatar": "hinatazaka46/miyatamanamo.png",
+				"portfolio": {
+					"birthday": "1998年4月28日",
+					"constellation": "おうし座",
+					"height": "157.5cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "渡邉美穂",
+				"enName": "Watanabe Miho",
+				"avatar": "hinatazaka46/watanabemiho.png",
+				"portfolio": {
+					"birthday": "2000年2月24日",
+					"constellation": "うお座",
+					"height": "158.6cm",
+					"placeOfBirth": "埼玉県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "上村ひなの",
+				"enName": "Kamimura Hinano",
+				"avatar": "hinatazaka46/kamimurahinano.png",
+				"portfolio": {
+					"birthday": "2004年4月12日",
+					"constellation": "おひつじ座",
+					"height": "162cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "AB型"
+				}
+			},
+			{
+				"name": "髙橋未来虹",
+				"enName": "Takahashi Mikuni",
+				"avatar": "hinatazaka46/takahashimikuni.png",
+				"portfolio": {
+					"birthday": "2003年9月27日",
+					"constellation": "てんびん座",
+					"height": "168.5cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "森本茉莉",
+				"enName": "Morimoto Mari",
+				"avatar": "hinatazaka46/morimotomari.png",
+				"portfolio": {
+					"birthday": "2004年2月23日",
+					"constellation": "うお座",
+					"height": "159.6cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "山口陽世",
+				"enName": "Yamaguchi Haruyo",
+				"avatar": "hinatazaka46/yamaguchiharuyo.png",
+				"portfolio": {
+					"birthday": "2004年2月23日",
+					"constellation": "うお座",
+					"height": "151cm",
+					"placeOfBirth": "鳥取県",
+					"bloodType": "O型"
+				}
+			}
+		]
+	},
+	"sakurazaka46": {
+		"members": [
+			{
+				"name": "上村 莉菜",
+				"enName": "RINA　UEMURA",
+				"avatar": "sakurazaka46/rinauemura.png",
+				"portfolio": {
+					"birthday": "1997年1月4日",
+					"constellation": "やぎ座",
+					"height": "153.5cm",
+					"placeOfBirth": "千葉県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "尾関 梨香",
+				"enName": "RIKA　OZEKI",
+				"avatar": "sakurazaka46/rikaozeki.png",
+				"portfolio": {
+					"birthday": "1997年10月7日",
+					"constellation": "てんびん座",
+					"height": "156.5cm",
+					"placeOfBirth": "神奈川県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "小池 美波",
+				"enName": "MINAMI　KOIKE",
+				"avatar": "sakurazaka46/minamikoike.png",
+				"portfolio": {
+					"birthday": "1998年11月14日",
+					"constellation": "さそり座",
+					"height": "158.5cm",
+					"placeOfBirth": "兵庫県",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "小林 由依",
+				"enName": "YUI　KOBAYASHI",
+				"avatar": "sakurazaka46/yuikobayashi.png",
+				"portfolio": {
+					"birthday": "1999年10月23日",
+					"constellation": "てんびん座",
+					"height": "161cm",
+					"placeOfBirth": "埼玉県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "齋藤 冬優花",
+				"enName": "FUYUKA　SAITO",
+				"avatar": "sakurazaka46/fuyukasaito.png",
+				"portfolio": {
+					"birthday": "1998年2月15日",
+					"constellation": "みずがめ座",
+					"height": "158cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "菅井 友香",
+				"enName": "YUUKA　SUGAI",
+				"avatar": "sakurazaka46/yuukasugai.png",
+				"portfolio": {
+					"birthday": "1995年11月29日",
+					"constellation": "いて座",
+					"height": "165cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "AB型"
+				}
+			},
+			{
+				"name": "土生 瑞穂",
+				"enName": "MIZUHO　HABU",
+				"avatar": "sakurazaka46/mizuhohabu.png",
+				"portfolio": {
+					"birthday": "1997年7月7日",
+					"constellation": "かに座",
+					"height": "171.6cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "原田 葵",
+				"enName": "AOI　HARADA",
+				"avatar": "sakurazaka46/aoiharada.png",
+				"portfolio": {
+					"birthday": "2000年5月7日",
+					"constellation": "おうし座",
+					"height": "156cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "AB型"
+				}
+			},
+			{
+				"name": "守屋 茜",
+				"enName": "AKANE　MORIYA",
+				"avatar": "sakurazaka46/akanemoriya.png",
+				"portfolio": {
+					"birthday": "1997年11月12日",
+					"constellation": "さそり座",
+					"height": "163.5cm",
+					"placeOfBirth": "宮城県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "渡辺 梨加",
+				"enName": "RIKA　WATANABE",
+				"avatar": "sakurazaka46/rikawatanabe.png",
+				"portfolio": {
+					"birthday": "1995年5月16日",
+					"constellation": "おうし座",
+					"height": "166.5cm",
+					"placeOfBirth": "茨城県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "渡邉 理佐",
+				"enName": "RISA　WATANABE",
+				"avatar": "sakurazaka46/risawatanabe.png",
+				"portfolio": {
+					"birthday": "1998年7月27日",
+					"constellation": "しし座",
+					"height": "167cm",
+					"placeOfBirth": "茨城県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "井上 梨名",
+				"enName": "RINA INOUE",
+				"avatar": "sakurazaka46/rinainoue.png",
+				"portfolio": {
+					"birthday": "2001年1月29日",
+					"constellation": "みずがめ座",
+					"height": "163cm",
+					"placeOfBirth": "兵庫県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "遠藤 光莉",
+				"enName": "HIKARI ENDO",
+				"avatar": "sakurazaka46/hikariendo.png",
+				"portfolio": {
+					"birthday": "1999年4月17日",
+					"constellation": "おひつじ座",
+					"height": "163.3cm",
+					"placeOfBirth": "神奈川県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "大園 玲",
+				"enName": "REI OZONO",
+				"avatar": "sakurazaka46/reiozono.png",
+				"portfolio": {
+					"birthday": "2000年4月18日",
+					"constellation": "おひつじ座",
+					"height": "163cm",
+					"placeOfBirth": "鹿児島県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "大沼 晶保",
+				"enName": "AKIHO ONUMA",
+				"avatar": "sakurazaka46/akihoonuma.png",
+				"portfolio": {
+					"birthday": "1999年10月12日",
+					"constellation": "てんびん座",
+					"height": "161cm",
+					"placeOfBirth": "静岡県",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "幸阪 茉里乃",
+				"enName": "MARINO KOUSAKA",
+				"avatar": "sakurazaka46/marinokousaka.png",
+				"portfolio": {
+					"birthday": "2002年12月19日",
+					"constellation": "いて座",
+					"height": "154.5cm",
+					"placeOfBirth": "三重県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "関 有美子",
+				"enName": "YUMIKO SEKI",
+				"avatar": "sakurazaka46/yumikoseki.png",
+				"portfolio": {
+					"birthday": "1998年6月29日",
+					"constellation": "かに座",
+					"height": "167cm",
+					"placeOfBirth": "福岡県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "武元 唯衣",
+				"enName": "YUI TAKEMOTO",
+				"avatar": "sakurazaka46/yuitakemoto.png",
+				"portfolio": {
+					"birthday": "2002年3月23日",
+					"constellation": "おひつじ座",
+					"height": "158.5cm",
+					"placeOfBirth": "滋賀県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "田村 保乃",
+				"enName": "HONO TAMURA",
+				"avatar": "sakurazaka46/honotamura.png",
+				"portfolio": {
+					"birthday": "1998年10月21日",
+					"constellation": "てんびん座",
+					"height": "163cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "藤吉 夏鈴",
+				"enName": "KARIN FUJIYOSHI",
+				"avatar": "sakurazaka46/karinfujiyoshi.png",
+				"portfolio": {
+					"birthday": "2001年8月29日",
+					"constellation": "おとめ座",
+					"height": "165.1cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "増本 綺良",
+				"enName": "KIRA MASUMOTO",
+				"avatar": "sakurazaka46/kiramasumoto.png",
+				"portfolio": {
+					"birthday": "2002年1月12日",
+					"constellation": "やぎ座",
+					"height": "158.4cm",
+					"placeOfBirth": "兵庫県",
+					"bloodType": "A型"
+				}
+			},
+			{
+				"name": "松田 里奈",
+				"enName": "RINA MATSUDA",
+				"avatar": "sakurazaka46/rinamatsuda.png",
+				"portfolio": {
+					"birthday": "1999年10月13日",
+					"constellation": "てんびん座",
+					"height": "159.5cm",
+					"placeOfBirth": "宮崎県",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "松平 璃子",
+				"enName": "RIKO MATSUDAIRA",
+				"avatar": "sakurazaka46/rikomatsudaira.png",
+				"portfolio": {
+					"birthday": "1998年5月5日",
+					"constellation": "おうし座",
+					"height": "168.3cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "O型"
+				}
+			},
+			{
+				"name": "森田 ひかる",
+				"enName": "HIKARU MORITA",
+				"avatar": "sakurazaka46/hikarumorita.png",
+				"portfolio": {
+					"birthday": "2001年7月10日",
+					"constellation": "かに座",
+					"height": "150.5cm",
+					"placeOfBirth": "福岡県",
+					"bloodType": "B型"
+				}
+			},
+			{
+				"name": "守屋 麗奈",
+				"enName": "RENA MORIYA",
+				"avatar": "sakurazaka46/renamoriya.png",
+				"portfolio": {
+					"birthday": "2000年1月2日",
+					"constellation": "やぎ座",
+					"height": "154cm",
+					"placeOfBirth": "東京都",
+					"bloodType": "AB型"
+				}
+			},
+			{
+				"name": "山﨑 天",
+				"enName": "TEN YAMASAKI",
+				"avatar": "sakurazaka46/tenyamasaki.png",
+				"portfolio": {
+					"birthday": "2005年9月28日",
+					"constellation": "てんびん座",
+					"height": "164.6cm",
+					"placeOfBirth": "大阪府",
+					"bloodType": "A型"
+				}
+			}
+		]
+	}
+}
