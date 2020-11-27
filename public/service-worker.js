@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0f18586618219cb4f4ebe267a5010b1e.js"
+  "/precache-manifest.a546ff2f61224db1e0dc91d3099f8736.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "saka_member"});
