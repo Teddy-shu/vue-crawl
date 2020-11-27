@@ -8,11 +8,14 @@ const fs = require('fs');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
+const router = express.Router();
+
 const app = express();
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 const port = 5000;
+app.use('/',router);
 
 if(process.env.NODE_ENV === 'production') {
   //static folder
@@ -22,7 +25,7 @@ if(process.env.NODE_ENV === 'production') {
   app.get(/.*/, (req, res) => res.sendFile(__dirname + '/public/index.html'));
 }
 
-app.get('/saka', (req, res) => {
+router.get('/saka', (req, res) => {
   try {
     fs.readFile('./data/sakaMembers.json', function (error, data) {
       if (error) {
@@ -36,7 +39,7 @@ app.get('/saka', (req, res) => {
   }
 });
 
-app.get('/crawl',async (req, res) => {
+router.get('/crawl',async (req, res) => {
   res.send(await getAllDataFromOfficalWebsite());
 });
 
