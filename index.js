@@ -13,6 +13,14 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 const port = 5000;
 
+if(process.env.NODE_ENV === 'production') {
+  //static folder
+  app.use(express.static(__dirname + '/public'));
+
+  //handle SPA
+  app.get(/.*/, (req, res) => res.sendFile(__dirname + '/public/index.html'));
+}
+
 app.get('/saka', (req, res) => {
   try {
     fs.readFile('./data/sakaMembers.json', function (error, data) {
@@ -66,7 +74,8 @@ function getHinatazaka46Website() {
               url: 'https://www.hinatazaka46.com' + dataItem.getAttribute("href"),
               date: context[0],
               differ: context[1],
-              title: context[2]
+              title: context[2],
+              group: 'Hinatazaka46'
             }
           });
 
@@ -76,7 +85,8 @@ function getHinatazaka46Website() {
               url: 'https://www.hinatazaka46.com' + dataItem.getAttribute("href"),
               title: context[0],
               name: context[1],
-              time: context[2]
+              time: context[2],
+              group: 'Hinatazaka46'
             }
           });
           //console.log(blogsDatas);
@@ -120,7 +130,8 @@ function getSakurazaka46Website() {
               url: 'https://sakurazaka46.com' + dataItem.getAttribute("href"),
               date: context[1],
               differ: context[0],
-              title: context[2]
+              title: context[2],
+              group: 'Sakurazaka46'
             }
           });
 
@@ -130,7 +141,8 @@ function getSakurazaka46Website() {
               url: 'https://sakurazaka46.com' + dataItem.getAttribute("href"),
               title: context[2],
               name: context[0],
-              time: context[1]
+              time: context[1],
+              group: 'Sakurazaka46'
             }
           });
 
@@ -182,7 +194,8 @@ function getNogizaka46Website() {
               url: newsUrls[index],
               date: context[0],
               differ: '',
-              title: context[1]
+              title: context[1],
+              group: 'Nogizaka46'
             }
           });
 
@@ -192,7 +205,8 @@ function getNogizaka46Website() {
               url: blogsUrls[index],
               title: context[2],
               name: context[1],
-              time: context[0]
+              time: context[0],
+              group: 'Nogizaka46'
             }
           });
 
