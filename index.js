@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
@@ -39,7 +40,7 @@ app.get('/crawl',async (req, res) => {
   res.send(await getAllDataFromOfficalWebsite());
 });
 
-app.listen(port, () => console.log(`express listrn at port ${port}`));
+app.listen(process.env.PORT || port, () => console.log(`express listrn at port ${port}`));
 
 async function getAllDataFromOfficalWebsite() {
   /*const dataHina = getNogizaka46Website().then((val) => {
